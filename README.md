@@ -1,5 +1,6 @@
 
-##1. RViz and RQT User Interface:
+moveit_cartesian_plan_plugin
+RViz and RQT User Interface:
 There are two types of interactive markers:
   - The red arrow acts as a pointer which the user can move around the RViz enviroment. Fruthermore by clicking on the arrow another blue arrow is added to the RViz enviroment. This arrow acts as way-point for the Cartesian Planner.
   - The blue arrow is the  way point for the cartesian trajectory planning. The orientation of the arrow can be changed by holding the CTRL key and moving it with the mouse.
